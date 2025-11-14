@@ -31,6 +31,10 @@ p:not([class]):not(:last-child) {
   margin-bottom: 24px;
 }
 
+b {
+  font-weight: 700;
+}
+
 h1,
 h2,
 h3,
